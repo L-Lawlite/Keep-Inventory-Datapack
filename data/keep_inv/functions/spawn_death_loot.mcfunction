@@ -1,0 +1,2 @@
+function keep_inv:drop_exp
+function keep_inv:fill_and_loot_shulker/shulker_loading
